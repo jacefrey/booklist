@@ -1,0 +1,6 @@
+apache-airflow==2.8.0
+requests
+beautifulsoup4
+SPARQLWrapper
+couchbase==4.1.6
+python-dotenv
